@@ -9,3 +9,15 @@ D:\Программирование\TP\TP\obj\Debug\TP.csproj.GenerateResource.c
 D:\Программирование\TP\TP\obj\Debug\TP.csproj.CoreCompileInputs.cache
 D:\Программирование\TP\TP\obj\Debug\TP.exe
 D:\Программирование\TP\TP\obj\Debug\TP.pdb
+C:\Users\danil\Budget checker\TP\TP\bin\Debug\TP.exe.config
+C:\Users\danil\Budget checker\TP\TP\bin\Debug\TP.exe
+C:\Users\danil\Budget checker\TP\TP\bin\Debug\TP.pdb
+C:\Users\danil\Budget checker\TP\TP\obj\Debug\TP.csproj.AssemblyReference.cache
+C:\Users\danil\Budget checker\TP\TP\obj\Debug\TP.Form1.resources
+C:\Users\danil\Budget checker\TP\TP\obj\Debug\TP.Login.resources
+C:\Users\danil\Budget checker\TP\TP\obj\Debug\TP.Properties.Resources.resources
+C:\Users\danil\Budget checker\TP\TP\obj\Debug\TP.Register.resources
+C:\Users\danil\Budget checker\TP\TP\obj\Debug\TP.csproj.GenerateResource.cache
+C:\Users\danil\Budget checker\TP\TP\obj\Debug\TP.csproj.CoreCompileInputs.cache
+C:\Users\danil\Budget checker\TP\TP\obj\Debug\TP.exe
+C:\Users\danil\Budget checker\TP\TP\obj\Debug\TP.pdb
