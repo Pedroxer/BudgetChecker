@@ -19,9 +19,20 @@ namespace TP
 
         private void signIn_Click(object sender, EventArgs e)
         {
-            Form1 f = new Form1();
-            f.Show();
-            Hide();
+            Auth a = new Auth(GlobalVar.db);
+            var res = a.Login(username_tb.Text, password_tb.Text);
+            if (res == 0)
+            {
+
+
+                Form1 f = new Form1();
+                f.Show();
+                Hide();
+            }
+            else
+            {
+                MessageBox.Show("Unexpected error");
+            }
         }
     }
 }
