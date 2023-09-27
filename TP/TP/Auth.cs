@@ -19,8 +19,13 @@ namespace TP
         {
             var query = String.Format("SELECT * FROM \"user\" where username = '{0}' and password = '{1}'", username, password);
             var user = db.CompleteSelectQuery(query);
-            if (user.Read()){
-                return 0;
+
+            if (user.HasRows) {
+                if (user.Read())
+                {
+                    return 0;
+                }
+                
             }
             return -1;
         }
