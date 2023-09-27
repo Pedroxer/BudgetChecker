@@ -33,7 +33,7 @@ namespace TP
             con.Open();
             var cmd = new NpgsqlCommand(query, con);
             var res = cmd.ExecuteReader();
-            //con.Close();
+            
             return res;
         } 
 
